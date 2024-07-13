@@ -1,0 +1,16 @@
+/* Estilo predeterminado del botón */
+.leaflet-touch .leaflet-bar button.easy-button-button[title="Recoleccion de Residuos"] {
+    background-color: aqua !important;
+    color: black !important;
+}
+.leaflet-touch .leaflet-bar button.easy-button-button[title="Centros de Reciclaje"] {
+    background-color: aqua !important;
+    color: black !important;
+}
+.leaflet-touch .leaflet-bar button.easy-button-button[title="Cuidado Animal"] {
+    background-color: aqua !important;
+    color: black !important;
+}
+body {
+    background-color: #0f6cbf;
+}
